@@ -1,7 +1,3 @@
----
-layout: tab
-title: avettbrotherstabs.com fork
----
 # avettbrotherstabs.com fork
 
 ## Download a copy
