@@ -13,6 +13,8 @@ wayback_machine_downloader http://avettbrotherstabs.com:80/wiki/ -d avettbrother
 Put this into a file:
 
 ```python
+#!/usr/bin/env python
+
 import sys
 from bs4 import BeautifulSoup, Comment
 
@@ -53,7 +55,10 @@ find -L avettbrotherstabs | grep out$ |  sed "s/'/\\\\'/" | xargs -I{} pandoc -r
 ```
 
 ## Copy over files
+
+```bash
 for f in avettbrotherstabs/wiki/*/*md; do new_loc=${f/avettbrotherstabs\/wiki\//}; new_loc=${new_loc/\/index.html.out/}; cp "$f" \
     "/tmp/$new_loc"; done
+```
 
 
