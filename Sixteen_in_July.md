@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Sixteen in July
+---
 # Sixteen in July
 
 **Capo IV**  

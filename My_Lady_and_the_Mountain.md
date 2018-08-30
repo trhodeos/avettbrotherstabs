@@ -1,3 +1,7 @@
+---
+layout: tab
+title: My Lady and the Mountain
+---
 # My Lady and the Mountain
 
   

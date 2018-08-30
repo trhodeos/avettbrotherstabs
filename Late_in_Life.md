@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Late in Life
+---
 # Late in Life
 
 She was an actress and a (G)dancer  

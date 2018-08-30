@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Down With the Shine
+---
 # Down With the Shine
 
 Add a Capo anywhere you like\!  

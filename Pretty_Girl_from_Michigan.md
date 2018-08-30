@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl from Michigan
+---
 # Pretty Girl from Michigan
 
 ``` 

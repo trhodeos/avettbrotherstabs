@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Cheap Rum
+---
 # Cheap Rum
 
 (Am)Cheap (G)rum (F)slick in my (C)veins  

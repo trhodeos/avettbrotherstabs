@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Hard Worker
+---
 # Hard Worker
 
 **Capo II, III or IV depending on your tuning.**  

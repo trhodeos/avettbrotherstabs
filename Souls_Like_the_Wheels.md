@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Souls Like the Wheels
+---
 # Souls Like the Wheels
 
   

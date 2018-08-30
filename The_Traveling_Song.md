@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Traveling Song
+---
 # The Traveling Song
 
 Well I (E)guess if my daddy hadn't brought me up down a long dirt road

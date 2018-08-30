@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretend Love
+---
 # Pretend Love
 
 **Capo II**  

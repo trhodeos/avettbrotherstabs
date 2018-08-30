@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Nothing Short of Thankful
+---
 # Nothing Short of Thankful
 
 (D)Hey man (C\#7)yes  

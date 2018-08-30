@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Those Green Eyes
+---
 # Those Green Eyes
 
 Those green (G)eyes, that black (D)hair,  

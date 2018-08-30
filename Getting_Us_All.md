@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Getting Us All
+---
 # Getting Us All
 
 (D)How much (Em)rum can I (C)hold?  

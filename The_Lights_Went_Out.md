@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Lights Went Out
+---
 # The Lights Went Out
 
 the (C)lights went (Em)out  

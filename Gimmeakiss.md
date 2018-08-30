@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Gimmeakiss
+---
 # Gimmeakiss
 
 (C)(B)(Am)(G)(F)(G)(C)  

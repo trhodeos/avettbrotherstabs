@@ -1,3 +1,7 @@
+---
+layout: tab
+title: January Wedding
+---
 # January Wedding
 
 **Capo II**  

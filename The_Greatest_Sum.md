@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Greatest Sum
+---
 # The Greatest Sum
 
 **Capo 4, tuned 1/2 step down**  

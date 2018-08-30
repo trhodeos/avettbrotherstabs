@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl From Locust
+---
 # Pretty Girl From Locust
 
 (G)careful, (D)not to say that I (Em)don't care  

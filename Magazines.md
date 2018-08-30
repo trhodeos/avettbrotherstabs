@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Magazines
+---
 # Magazines
 
 Originally performed by the everybodyfields  

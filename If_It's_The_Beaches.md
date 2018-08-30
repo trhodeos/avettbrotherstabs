@@ -1,3 +1,7 @@
+---
+layout: tab
+title: If It's The Beaches
+---
 # If It's The Beaches
 
 **Capo 5**  

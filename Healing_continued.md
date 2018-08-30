@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Healing continued
+---
 # Healing continued
 
 Are there (F)times (F/G) (C)when you can't believe the (F)words? (F/G)  

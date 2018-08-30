@@ -1,3 +1,7 @@
+---
+layout: tab
+title: About Love
+---
 # About Love
 
 **Capo III**  

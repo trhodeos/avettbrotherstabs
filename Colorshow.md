@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Colorshow
+---
 # Colorshow
 
 (Am)Be loud let your (F)colors show  

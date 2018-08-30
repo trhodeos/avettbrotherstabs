@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl From Raleigh
+---
 # Pretty Girl From Raleigh
 
 ``` 

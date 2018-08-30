@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }}{% endif %}</title>
+  </head>
+
+  <body>
+    <div>
+      {{ content }}
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: In Your Light
+---
 # In Your Light
 
 **Capo 2**  

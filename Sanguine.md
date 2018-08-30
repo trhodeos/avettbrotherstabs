@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Sanguine
+---
 # Sanguine
 
 **Capo III**  

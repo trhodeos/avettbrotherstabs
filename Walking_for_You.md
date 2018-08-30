@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Walking for You
+---
 # Walking for You
 
 #### <span id="Banjo_Tab" class="mw-headline"> Banjo Tab </span>

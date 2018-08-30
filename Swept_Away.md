@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Swept Away
+---
 # Swept Away
 
 Well (G)you send my life a (C)whirling  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Prettiest Thing
+---
 # The Prettiest Thing
 
 Cover of the wonderful David Childers  

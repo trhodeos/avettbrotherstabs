@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl from San Diego
+---
 # Pretty Girl from San Diego
 
 ``` 

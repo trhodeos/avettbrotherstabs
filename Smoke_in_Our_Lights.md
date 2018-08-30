@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Smoke in Our Lights
+---
 # Smoke in Our Lights
 
 You're not a (G)girl, you're a (D)town  

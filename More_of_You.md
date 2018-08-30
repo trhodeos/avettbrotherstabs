@@ -1,3 +1,7 @@
+---
+layout: tab
+title: More of You
+---
 # More of You
 
 ``` 

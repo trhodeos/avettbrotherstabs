@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Carolyn Sells
+---
 # Carolyn Sells
 
 **Capo 5**  

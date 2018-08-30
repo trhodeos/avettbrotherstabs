@@ -1,3 +1,7 @@
+---
+layout: tab
+title: My Losing Bet
+---
 # My Losing Bet
 
 G Bm C D  

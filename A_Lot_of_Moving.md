@@ -1,3 +1,7 @@
+---
+layout: tab
+title: A Lot of Moving
+---
 # A Lot of Moving
 
 A lot of (G)movin’; a lot of (D)rollin’; a lot of (G)drivin’; a lot of

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: I Killed Sally's Lover
+---
 # I Killed Sally's Lover
 
 ``` 

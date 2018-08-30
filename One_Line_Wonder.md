@@ -1,3 +1,7 @@
+---
+layout: tab
+title: One Line Wonder
+---
 # One Line Wonder
 
   - Intro

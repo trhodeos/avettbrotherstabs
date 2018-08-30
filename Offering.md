@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Offering
+---
 # Offering
 
 (G)Babe I’m (C)lost  

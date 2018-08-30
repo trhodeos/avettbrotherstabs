@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Be On My Side
+---
 # Be On My Side
 
 (C)Be on my (G)side  

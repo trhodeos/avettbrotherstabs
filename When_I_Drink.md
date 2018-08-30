@@ -1,3 +1,7 @@
+---
+layout: tab
+title: When I Drink
+---
 # When I Drink
 
 **Capo 4 (Capo 2 on Album)**  

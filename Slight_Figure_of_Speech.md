@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Slight Figure of Speech
+---
 # Slight Figure of Speech
 
 (G)  

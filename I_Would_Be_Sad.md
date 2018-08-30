@@ -1,3 +1,7 @@
+---
+layout: tab
+title: I Would Be Sad
+---
 # I Would Be Sad
 
 **Capo I**  

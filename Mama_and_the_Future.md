@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Mama and the Future
+---
 # Mama and the Future
 
 (C)Mama, (D)will you still (G)call me your (C)son  

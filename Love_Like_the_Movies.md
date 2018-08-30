@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Love Like the Movies
+---
 # Love Like the Movies
 
 So you (G)want to (D)be in (C)love (D)like the (G)movies?  

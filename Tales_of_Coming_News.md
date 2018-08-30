@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Tales of Coming News
+---
 # Tales of Coming News
 
 (G)I'm so tired of hearing (C)tales of coming news (G)  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Incomplete and Insecure
+---
 # Incomplete and Insecure
 
 (C)I haven’t finished a (F) thing since I started my (C) life  

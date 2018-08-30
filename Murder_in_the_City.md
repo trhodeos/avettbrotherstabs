@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Murder in the City
+---
 # Murder in the City
 
 **Capo III** or sometimes live **Capo IV**  

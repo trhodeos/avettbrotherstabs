@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Ballad in Open D
+---
 # Ballad in Open D
 
 This song is played in Open D tuning (duh).  

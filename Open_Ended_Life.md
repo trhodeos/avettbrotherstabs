@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Open Ended Life
+---
 # Open Ended Life
 
 ``` 

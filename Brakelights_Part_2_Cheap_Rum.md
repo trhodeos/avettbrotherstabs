@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Brakelights Part 2 Cheap Rum
+---
 # Brakelights Part 2 Cheap Rum
 
 I don't (C)see your (Am)brakelights (Dm)burnin'

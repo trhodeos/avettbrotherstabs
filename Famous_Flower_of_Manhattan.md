@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Famous Flower of Manhattan
+---
 # Famous Flower of Manhattan
 
 **Capo II**  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Some Bad Dream
+---
 # Some Bad Dream
 
 You walk(G) just like a girl that I (Bm)knew (C) (D7)  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Dancing Daze
+---
 # Dancing Daze
 
 (G)I've seen the (A7)way you deal with (D)things  

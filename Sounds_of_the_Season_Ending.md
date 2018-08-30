@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Sounds of the Season Ending
+---
 # Sounds of the Season Ending
 
 **Capo III**  

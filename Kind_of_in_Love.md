@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Kind of in Love
+---
 # Kind of in Love
 
 p=pull off  

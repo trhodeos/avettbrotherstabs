@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Through My Prayers
+---
 # Through My Prayers
 
 ``` 

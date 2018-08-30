@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Me and God
+---
 # Me and God
 
   

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl from Chile
+---
 # Pretty Girl from Chile
 
 Banjo Intro (tuned down half a

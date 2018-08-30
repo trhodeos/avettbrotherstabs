@@ -1,3 +1,7 @@
+---
+layout: tab
+title: I Don't Care Sincerely
+---
 # I Don't Care Sincerely
 
 (Bb)Don't write me (F)back  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Ten Thousand Words
+---
 # Ten Thousand Words
 
   

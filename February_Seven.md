@@ -1,3 +1,7 @@
+---
+layout: tab
+title: February Seven
+---
 # February Seven
 
 **Capo 4**

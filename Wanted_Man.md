@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Wanted Man
+---
 # Wanted Man
 
 (F)Bullet in my shoulder, Blood running down my vest  

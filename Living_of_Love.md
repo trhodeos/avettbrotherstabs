@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Living of Love
+---
 # Living of Love
 
 **Capo I**  

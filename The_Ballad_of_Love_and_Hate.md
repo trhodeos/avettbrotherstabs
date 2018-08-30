@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Ballad of Love and Hate
+---
 # The Ballad of Love and Hate
 
 **Capo III**  

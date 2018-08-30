@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Once and Future Carpenter
+---
 # The Once and Future Carpenter
 
 **Capo 4**

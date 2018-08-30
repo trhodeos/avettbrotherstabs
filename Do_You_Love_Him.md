@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Do You Love Him
+---
 # Do You Love Him
 
 Do you (G)love him, do you love him, do you love him my (D)dear  

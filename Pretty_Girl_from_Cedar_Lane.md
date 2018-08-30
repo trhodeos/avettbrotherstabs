@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl from Cedar Lane
+---
 # Pretty Girl from Cedar Lane
 
 (G)I had a (B7)moment when I (C)thought I might be (D)wrong  

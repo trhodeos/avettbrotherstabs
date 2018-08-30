@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Blessed
+---
 # Blessed
 
 **Capo II**

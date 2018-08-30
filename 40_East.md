@@ -1,3 +1,7 @@
+---
+layout: tab
+title: 40 East
+---
 # 40 East
 
 **Capo II**  

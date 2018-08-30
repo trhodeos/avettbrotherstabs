@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Denouncing November Blue (Uneasy Writer)
+---
 # Denouncing November Blue (Uneasy Writer)
 
   

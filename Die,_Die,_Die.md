@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Die, Die, Die
+---
 # Die, Die, Die
 
 **Capo I**  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: A Lover Like You
+---
 # A Lover Like You
 
 The capo should be placed at 2nd fret if you want to be in the correct

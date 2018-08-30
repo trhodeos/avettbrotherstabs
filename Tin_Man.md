@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Tin Man
+---
 # Tin Man
 
 **Capo 2**  

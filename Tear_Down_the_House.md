@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Tear Down the House
+---
 # Tear Down the House
 
 **Banjo**  

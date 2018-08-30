@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Let Myself Live
+---
 # Let Myself Live
 
 (G)The night just got darker, and the moon fell out of sight  

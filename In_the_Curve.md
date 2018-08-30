@@ -1,3 +1,7 @@
+---
+layout: tab
+title: In the Curve
+---
 # In the Curve
 
 **Capo 4**  

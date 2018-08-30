@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Teal Dream
+---
 # The Teal Dream
 
 **Capo 2**  

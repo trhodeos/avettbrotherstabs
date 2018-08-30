@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Salvation Song
+---
 # Salvation Song
 
 (G)If you take my heart  

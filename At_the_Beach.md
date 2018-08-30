@@ -1,3 +1,7 @@
+---
+layout: tab
+title: At the Beach
+---
 # At the Beach
 
 All chords Barred  

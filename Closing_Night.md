@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Closing Night
+---
 # Closing Night
 
 No Capo

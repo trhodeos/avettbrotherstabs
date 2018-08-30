@@ -1,3 +1,7 @@
+---
+layout: tab
+title: SSS
+---
 # SSS
 
 (G)I (C)never thought I'd (G)could (C)feel the way I (G)do  

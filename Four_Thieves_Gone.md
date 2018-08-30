@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Four Thieves Gone
+---
 # Four Thieves Gone
 
 "Four Thieves Gone" submitted by Jake W.

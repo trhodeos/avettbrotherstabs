@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Standing With You
+---
 # Standing With You
 
 **Capo II**  

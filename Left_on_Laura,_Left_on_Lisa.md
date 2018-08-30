@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Left on Laura, Left on Lisa
+---
 # Left on Laura, Left on Lisa
 
 This is the chord played at the beginning and between the verses. Just a

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: I Can't Remember
+---
 # I Can't Remember
 
 **Capo 4**  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Signs
+---
 # Signs
 
 (G)It's the place and your (Bm)friends that got me (G)down  

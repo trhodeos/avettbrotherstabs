@@ -1,3 +1,7 @@
+---
+layout: tab
+title: All My Mistakes
+---
 # All My Mistakes
 
 **Capo 1**  

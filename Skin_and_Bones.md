@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Skin and Bones
+---
 # Skin and Bones
 
 **Capo IV**  

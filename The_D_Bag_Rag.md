@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The D Bag Rag
+---
 # The D Bag Rag
 
 Grab a couple of friends and a kazoo. The tabs correspond to the

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Forgiving Me
+---
 # Forgiving Me
 
 (F)I'm no (Am)angel, and (C)neither are (F)you  

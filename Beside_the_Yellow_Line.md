@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Beside the Yellow Line
+---
 # Beside the Yellow Line
 
 D G  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The New Love Song
+---
 # The New Love Song
 
 **Capo II**  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Swept Away (Sentimental Version)
+---
 # Swept Away (Sentimental Version)
 
 Well (G)you send my life a (C)whirling  

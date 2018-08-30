@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Day That Marvin Gaye Died
+---
 # The Day That Marvin Gaye Died
 
 (G)(Am)(G)(D)  

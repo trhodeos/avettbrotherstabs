@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Kick Drum Heart
+---
 # Kick Drum Heart
 
 Basic rendition of the piano

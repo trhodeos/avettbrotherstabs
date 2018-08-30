@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Clearness Is Gone
+---
 # The Clearness Is Gone
 
 **Capo 2**

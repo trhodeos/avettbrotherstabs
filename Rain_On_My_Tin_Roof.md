@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Rain On My Tin Roof
+---
 # Rain On My Tin Roof
 
 **Capo I**  

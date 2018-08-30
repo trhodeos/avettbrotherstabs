@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Black, Blue
+---
 # Black, Blue
 
 **Capo 5, 1/2 step down**  

@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Find My Love
+---
 # Find My Love
 
 **Capo 1**  

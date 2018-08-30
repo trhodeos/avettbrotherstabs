@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Letter to a Pretty Girl
+---
 # Letter to a Pretty Girl
 
 (G)Hey hey (C)Carla  

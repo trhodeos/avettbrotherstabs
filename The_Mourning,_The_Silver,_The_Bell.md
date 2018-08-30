@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Mourning, The Silver, The Bell
+---
 # The Mourning, The Silver, The Bell
 
 **Capo III**  

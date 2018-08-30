@@ -1,3 +1,7 @@
+---
+layout: tab
+title: November Blue
+---
 # November Blue
 
 (C)If I weren't (G)leaving, (Am)would (G)I (F)catch (G)you (C)dreamin'

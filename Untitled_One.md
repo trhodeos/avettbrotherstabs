@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Untitled One
+---
 # Untitled One
 
 Video: [Untitled \#1](https://www.youtube.com/watch?v=YEMzFOt4Jn8)

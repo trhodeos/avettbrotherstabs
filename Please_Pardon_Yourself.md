@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Please Pardon Yourself
+---
 # Please Pardon Yourself
 
 **Capo II**  

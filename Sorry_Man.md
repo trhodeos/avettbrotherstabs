@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Sorry Man
+---
 # Sorry Man
 
 Your (C)momma (G)doesn't (C)like me, she thinks I'm a (C)so (G)rry

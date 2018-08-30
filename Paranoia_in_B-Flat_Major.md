@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Paranoia in B-Flat Major
+---
 # Paranoia in B-Flat Major
 
 **Capo 4**  

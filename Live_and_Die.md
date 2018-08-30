@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Live and Die
+---
 # Live and Die
 
 **Capo 4**  

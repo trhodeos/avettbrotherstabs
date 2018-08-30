@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl From Annapolis
+---
 # Pretty Girl From Annapolis
 
 **Capo III**  

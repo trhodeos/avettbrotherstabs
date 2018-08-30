@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Talk on Indolence
+---
 # Talk on Indolence
 
 Well I’ve been locking myself up in my house for sometime now  

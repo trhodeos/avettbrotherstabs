@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Jenny and the Summer Day
+---
 # Jenny and the Summer Day
 
 (G)What a darling summer time  

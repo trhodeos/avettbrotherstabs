@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Go to Sleep
+---
 # Go to Sleep
 
 (G)Lay back, lay back, go to sleep my (C)man  

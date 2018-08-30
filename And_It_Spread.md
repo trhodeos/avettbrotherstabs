@@ -1,3 +1,7 @@
+---
+layout: tab
+title: And It Spread
+---
 # And It Spread
 
 **Capo II**  

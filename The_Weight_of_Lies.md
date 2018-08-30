@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Weight of Lies
+---
 # The Weight of Lies
 
 **Capo II**  

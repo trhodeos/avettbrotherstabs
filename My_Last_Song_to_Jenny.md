@@ -1,3 +1,7 @@
+---
+layout: tab
+title: My Last Song to Jenny
+---
 # My Last Song to Jenny
 
 **Capo II**  

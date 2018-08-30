@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Laundry Room
+---
 # Laundry Room
 
 **Capo 4**  

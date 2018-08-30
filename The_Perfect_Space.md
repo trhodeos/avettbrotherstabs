@@ -1,3 +1,7 @@
+---
+layout: tab
+title: The Perfect Space
+---
 # The Perfect Space
 
   

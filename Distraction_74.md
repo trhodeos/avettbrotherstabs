@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Distraction 74
+---
 # Distraction 74
 
 ``` 

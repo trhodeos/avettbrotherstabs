@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Captain
+---
 # Captain
 
 ``` 

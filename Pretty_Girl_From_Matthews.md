@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Pretty Girl From Matthews
+---
 # Pretty Girl From Matthews
 
 (G)Hold on a minute, it ain't (C)time to leave  

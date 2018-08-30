@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Another Is Waiting
+---
 # Another Is Waiting
 
 It's a (G)fake, it's a (Em)hoax  

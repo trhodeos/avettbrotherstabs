@@ -1,3 +1,7 @@
+---
+layout: tab
+title: A moment of clarity
+---
 # A moment of clarity
 
 **Capo II**  

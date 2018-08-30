@@ -1,3 +1,7 @@
+---
+layout: tab
+title: Old Wyom
+---
 # Old Wyom
 
 A  
