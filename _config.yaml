@@ -1,3 +1,5 @@
+baseurl: "/avettbrotherstabs"
+
 permalink: /:title/
 
 # Jekyll 3 now only supports Kramdown for Markdown

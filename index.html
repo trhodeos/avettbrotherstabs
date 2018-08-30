@@ -5,7 +5,7 @@ layout: tab
 <div class="tabs">
   <ul>
   {% for tab in site.pages %}
-    <li><a href="{{ tab.url }}">{{ tab.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ tab.url }}">{{ tab.title }}</a></li>
   {% endfor %}
   </ul>
 </div>
